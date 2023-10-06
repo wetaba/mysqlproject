@@ -1,3 +1,3 @@
-### Branch XX2
+### Branch 2
 
 ....
